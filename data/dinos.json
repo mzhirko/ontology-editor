@@ -1,0 +1,464 @@
+[
+  {
+    "id": 1,
+    "source": "Dinosaur",
+    "type": "class",
+    "target": "Class"
+  },
+
+  {
+    "id": 2,
+    "source": "Ankylosaurus",
+    "type": "subclass",
+    "target": "Dinosaur"
+  },
+
+  {
+    "id": 3,
+    "source": "Ceratopsids",
+    "type": "subclass",
+    "target": "Dinosaur"
+  },
+
+  {
+    "id": 4,
+    "source": "Ornithopods",
+    "type": "subclass",
+    "target": "Dinosaur"
+  },
+
+  {
+    "id": 5,
+    "source": "Pachycephalosaurus",
+    "type": "subclass",
+    "target": "Dinosaur"
+  },
+
+  {
+    "id": 6,
+    "source": "Pachycephalosaur",
+    "type": "habitat",
+    "target": "North America"
+  },
+
+  {
+    "id": 7,
+    "source": "Pachycephalosaur",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 8,
+    "source": "Prosauropods",
+    "type": "subclass",
+    "target": "Dinosaur"
+  },
+
+  {
+    "id": 9,
+    "source": "Sauropods",
+    "type": "subclass",
+    "target": "Dinosaur"
+  },
+
+  {
+    "id": 10,
+    "source": "Stegosaurus",
+    "type": "subclass",
+    "target": "Dinosaur"
+  },
+
+  {
+    "id": 11,
+    "source": "Theropods",
+    "type": "subclass",
+    "target": "Dinosaur"
+  },
+
+  {
+    "id": 12,
+    "source": "Euplocephalus",
+    "type": "instance",
+    "target": "Ankylosaurus"
+  },
+
+  {
+    "id": 13,
+    "source": "Euplocephalus",
+    "type": "habitat",
+    "target": "North America"
+  },
+
+  {
+    "id": 14,
+    "source": "Euplocephalus",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 15,
+    "source": "Sselidosaurus",
+    "type": "instance",
+    "target": "Ankylosaurus"
+  },
+
+
+  {
+    "id": 16,
+    "source": "Sselidosaurus",
+    "type": "habitat",
+    "target": "England"
+  },
+
+  {
+    "id": 17,
+    "source": "Sselidosaurus",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 18,
+    "source": "Protoceratops",
+    "type": "instance",
+    "target": "Ceratopsids"
+  },
+
+  {
+    "id": 19,
+    "source": "Protoceratops",
+    "type": "habitat",
+    "target": "Mongolia"
+  },
+
+  {
+    "id": 20,
+    "source": "Protoceratops",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 21,
+    "source": "Triceratops",
+    "type": "instance",
+    "target": "Ceratopsids"
+  },
+
+  {
+    "id": 22,
+    "source": "Triceratops",
+    "type": "habitat",
+    "target": "North America"
+  },
+
+  {
+    "id": 23,
+    "source": "Triceratops",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 24,
+    "source": "Heterodontosaurus",
+    "type": "instance",
+    "target": "Ornithopods"
+  },
+
+   {
+    "id": 25,
+    "source": "Heterodontosaurus",
+    "type": "habitat",
+    "target": "South Africa"
+  },
+
+  {
+    "id": 26,
+    "source": "Heterodontosaurus",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 27,
+    "source": "Hypsilophodon",
+    "type": "instance",
+    "target": "Ornithopods"
+  },
+
+  {
+    "id": 28,
+    "source": "Hypsilophodon",
+    "type": "habitat",
+    "target": "England"
+  },
+
+  {
+    "id": 29,
+    "source": "Hypsilophodon",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 30,
+    "source": "Sauroloph",
+    "type": "instance",
+    "target": "Ornithopods"
+  },
+
+  {
+    "id": 31,
+    "source": "Sauroloph",
+    "type": "habitat",
+    "target": "South Africa"
+  },
+
+  {
+    "id": 32,
+    "source": "Sauroloph",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 33,
+    "source": "Pachycephalosaur",
+    "type": "instance",
+    "target": "Pachycephalosaurus"
+  },
+
+  {
+    "id": 34,
+    "source": "Lufengosaurus",
+    "type": "instance",
+    "target": "Prosauropods"
+  },
+
+  {
+    "id": 35,
+    "source": "Lufengosaurus",
+    "type": "habitat",
+    "target": "China"
+  },
+
+  {
+    "id": 36,
+    "source": "Lufengosaurus",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 37,
+    "source": "Massonspodil",
+    "type": "instance",
+    "target": "Prosauropods"
+  },
+
+  {
+    "id": 38,
+    "source": "Massonspodil",
+    "type": "habitat",
+    "target": "South Africa"
+  },
+
+  {
+    "id": 39,
+    "source": "Massonspodil",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 40,
+    "source": "Plateosaurus",
+    "type": "instance",
+    "target": "Prosauropods"
+  },
+
+  {
+    "id": 41,
+    "source": "Plateosaurus",
+    "type": "habitat",
+    "target": "Europe"
+  },
+
+  {
+    "id": 42,
+    "source": "Plateosaurus",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 43,
+    "source": "Apatosaurus",
+    "type": "instance",
+    "target": "Sauropods"
+  },
+
+  {
+    "id": 44,
+    "source": "Apatosaurus",
+    "type": "habitat",
+    "target": "North America"
+  },
+
+  {
+    "id": 45,
+    "source": "Apatosaurus",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 46,
+    "source": "Branchiosaurus",
+    "type": "instance",
+    "target": "Sauropods"
+  },
+
+  {
+    "id": 47,
+    "source": "Branchiosaurus",
+    "type": "habitat",
+    "target": "North America"
+  },
+
+  {
+    "id": 48,
+    "source": "Branchiosaurus",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 49,
+    "source": "Diplodocus",
+    "type": "instance",
+    "target": "Sauropods"
+  },
+
+  {
+    "id": 50,
+    "source": "Diplodocus",
+    "type": "habitat",
+    "target": "North America"
+  },
+
+  {
+    "id": 51,
+    "source": "Diplodocus",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 52,
+    "source": "Stegosaur",
+    "type": "instance",
+    "target": "Stegosaurus"
+  },
+
+  {
+    "id": 53,
+    "source": "Stegosaur",
+    "type": "habitat",
+    "target": "Europe"
+  },
+
+  {
+    "id": 54,
+    "source": "Stegosaur",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 55,
+    "source": "Lexovisaurus",
+    "type": "instance",
+    "target": "Stegosaurus"
+  },
+
+  {
+    "id": 56,
+    "source": "Lexovisaurus",
+    "type": "habitat",
+    "target": "North America"
+  },
+
+  {
+    "id": 57,
+    "source": "Lexovisaurus",
+    "type": "type",
+    "target": "herbivorous"
+  },
+
+  {
+    "id": 58,
+    "source": "Afrovenator",
+    "type": "instance",
+    "target": "Theropods"
+  },
+
+  {
+    "id": 59,
+    "source": "Afrovenator",
+    "type": "habitat",
+    "target": "North Africa"
+  },
+
+  {
+    "id": 60,
+    "source": "Afrovenator",
+    "type": "type",
+    "target": "carnivore"
+  },
+
+  {
+    "id": 61,
+    "source": "Avimim",
+    "type": "instance",
+    "target": "Theropods"
+  },
+
+  {
+    "id": 62,
+    "source": "Avimim",
+    "type": "habitat",
+    "target": "Mongolia"
+  },
+
+  {
+    "id": 63,
+    "source": "Avimim",
+    "type": "type",
+    "target": "carnivore"
+  },
+
+  {
+    "id": 64,
+    "source": "Deinonychus",
+    "type": "instance",
+    "target": "Theropods"
+  },
+
+  {
+    "id": 65,
+    "source": "Deinonychus",
+    "type": "habitat",
+    "target": "USA"
+  },
+
+  {
+    "id": 66,
+    "source": "Deinonychus",
+    "type": "type",
+    "target": "carnivore"
+  }
+]
